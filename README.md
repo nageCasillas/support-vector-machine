@@ -28,20 +28,20 @@ To get started with this project, follow these steps:
 ### Installation
 1. Clone the repository: 
     
-bash
+```bash
     git clone https://github.com/nageCasillas/support-vector-machine.git
     cd support-vector-machine
-
+```
 2. Install the required packages:
    
-bash
+```bash
     pip install -r requirements.txt
-
+```
 3. Run the Streamlit application:
     
-bash
+```bash
     streamlit run app.py
-
+```
 4. Open your browser and go to http://localhost:8501 to start interacting with the app.
 
 ## Contribution
